@@ -1,6 +1,6 @@
 # kiji-mvn-resolver
 
-Maven Repository for kiji related artifacts which are long dead now.
+Maven Repository for kiji related artifacts which are long dead now. To view all the versions and artifacts that we expose via this repo, please visit https://ind9.github.io/kiji-mvn-resolver/index.
 
 ## SBT Settings
 ```sbt

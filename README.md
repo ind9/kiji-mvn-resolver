@@ -19,6 +19,6 @@ resolvers += "Kiji Maven Repo" at "https://ind9.github.io/kiji-mvn-resolver/",
 ## To Generate HTML for directory listing
 
 ```bash
-tree -H baseHREF > index.htm
+tree -H baseHREF > index.html
 ```
 
